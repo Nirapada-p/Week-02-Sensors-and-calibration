@@ -54,3 +54,9 @@ $$
 |   180         |      180.98       |   0.98             |
 
 # **Link youtube**
+
+ขั้นตอนที่ 3 อ่านค่า ADC (ESP-IDF)
+https://youtube.com/shorts/djl4RB2g4HQ?feature=share
+
+ขั้นตอนที่ 6 แสดงผลมุมแบบเรียลไทม์ (ESP-IDF)
+https://youtube.com/shorts/YP79gt17wMA?feature=share
